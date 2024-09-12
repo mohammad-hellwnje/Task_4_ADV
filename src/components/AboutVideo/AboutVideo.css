@@ -1,0 +1,10 @@
+.outcircle {
+    width: 60px;
+    height: 60px;
+    background-color: rgba(210, 229, 231, 0.678);
+}
+.incircle {
+    width: 40px;
+    height: 40px;
+    background-color: rgb(63, 187, 192);
+}

@@ -1,0 +1,35 @@
+.gallery-slider-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.gallery-slider-img {
+  width: 200px; 
+  height: 200px;
+  margin: 0 10px;
+}
+
+.gallery-slider-img.active {
+  border: 4px solid #007bff;
+  transform: scalex(1.2);
+}
+
+.custom-indicators {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.indicator {
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background-color: #ccc;
+  margin: 0 5px;
+  cursor: pointer;
+}
+
+.indicator.active {
+  background-color: #007bff;
+}

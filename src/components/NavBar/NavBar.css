@@ -1,0 +1,15 @@
+.image-width {
+    width: 150px;
+}
+.bg-color {
+    background-color: rgb(63, 187, 192);
+}
+.fixed-top {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000; 
+}
+.active {
+    color: rgb(63, 187, 192) !important;
+}

@@ -1,0 +1,58 @@
+.carousel-control-prev,
+.carousel-control-next {
+    display: none;
+}
+
+.indicator-dot {
+    width: 12px;
+    height: 12px;
+    background-color: #ddd;
+    border-radius: 50%;
+    margin: 0 5px;
+    cursor: pointer;
+}
+
+.indicator-dot.active {
+    background-color: #007bff;
+}
+
+.box-height {
+    height: 180px;
+}
+
+.image-box {
+    margin-top: -50px;
+    border: 4px solid white;
+}
+
+.custom-indicators {
+    display: flex;
+    justify-content: center;
+}
+.indicator-dot.active {
+    background-color: #007bff;
+}
+
+.card {
+    border: none;
+}
+
+.card .image-box {
+    max-width: 100px;
+    height: auto;
+}
+@media (max-width:992px) {
+    .box-height {
+        height: 250px;
+    }
+}
+@media (max-width:768px) {
+    .box-height {
+        height: 130px;
+    }
+}
+@media (max-width:576px) {
+    .box-height {
+        height: 180px;
+    }
+}

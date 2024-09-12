@@ -1,0 +1,16 @@
+
+
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+button {
+    margin-top: 10px;
+}
+.shadow-box2 {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 30px 20px;
+    border-radius: 8px; 
+    background-color: #fff; 
+}

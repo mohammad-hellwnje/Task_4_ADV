@@ -1,0 +1,24 @@
+footer a {
+  color: gray;
+  font-size: 14px;
+}
+
+footer a:hover {
+  color: rgb(63, 187, 192) ; 
+}
+
+.icon-w-h {
+  width: 30px;
+  height: 30px;
+}
+
+.Icons a:hover {
+  color: rgb(63, 187, 192) ; 
+  border-color: rgb(63, 187, 192) ; 
+}
+
+.no-background .list-group-item {
+  background-color: transparent;
+  border: none;
+  padding-left: 0;
+}
