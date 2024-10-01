@@ -7,7 +7,7 @@ function Hero({ images }) {
   return (
     <Carousel>
       {images.map((image, index) => (
-        <Carousel.Item key={index} interval={1000}>
+        <Carousel.Item key={index} interval={5000}>
           <img
             className="d-block w-100 hero-image"
             src={image}

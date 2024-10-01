@@ -14,12 +14,12 @@ function About() {
         <AboutInfo />
        </div>
       <div className='d-flex justify-content-center'>
-      <AboutCard/>
+      {/* <AboutCard/> */}
       </div>
-      <div className='container d-flex justify-content-between my-5  gap-2 flex-lg-row flex-column'>
+      {/* <div className='container d-flex justify-content-between my-5  gap-2 flex-lg-row flex-column'>
         <AboutImage/>
         <AboutInfo2/>
-      </div>
+      </div> */}
     </div>
   )
 }

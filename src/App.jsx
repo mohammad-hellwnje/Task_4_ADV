@@ -25,15 +25,15 @@ function App() {
     <>
       <NavBar logoImage={logo} navItems={navItems} topBarInfo={topBarInfo} />
       <Hero images={heroImages} />
-      <CardContainer />
-      <About />
+      {/* <CardContainer /> */}
+      {/* <About /> */}
       <Service />
       <FormBox />
       <Department />
-      <Testimonial />
-      <Doctor />
-      <Gallery />
-      <Pricing />
+      {/* <Testimonial /> */}
+      {/* <Doctor /> */}
+      {/* <Gallery /> */}
+      {/* <Pricing /> */}
       <Frquently />
       <Contact />
       <Footer 

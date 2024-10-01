@@ -2,9 +2,9 @@ export const questions = [
     'Non consectetur a erat nam at lectus duis ?',
     'Feugiat scelerisque varius morbi enim nunc faucibus ?',
     'Dolor sit amet consectetur adipiscing elit pellentesque ?',
-    'Ac odio tempor orci dapibus. Aliquam eleifend mi in nulla ?',
-    'Tempus quam pellentesque nec nam aliquam sem et tortor ?',
-    'Perspicatis quod quo quos nulla quo illum ullam?',
+    // 'Ac odio tempor orci dapibus. Aliquam eleifend mi in nulla ?',
+    // 'Tempus quam pellentesque nec nam aliquam sem et tortor ?',
+    // 'Perspicatis quod quo quos nulla quo illum ullam?',
   ];
 
 export  const answers = [
